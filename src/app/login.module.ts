@@ -8,7 +8,7 @@ import {HelloComponent} from './hello.component';
         LoginComponent, HelloComponent
     ],
     imports: [
-        ReactiveFormsModule,
+        ReactiveFormsModule
     ],
     exports: [
         LoginComponent
